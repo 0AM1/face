@@ -110,7 +110,7 @@
 							"material": "6442cd15-2e64-4012-8a07-111bd06db54c"
 						}]
 				}],
-			"background": null,  // Add this line to ensure transparency
+			"background": null,
 			"backgroundRotation": [0,0,0,
 				"XYZ"],
 			"environmentRotation": [0,0,0,
